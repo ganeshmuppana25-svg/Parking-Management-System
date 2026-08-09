@@ -1,0 +1,17 @@
+{
+  "bike": {
+    "label": "Bike",
+    "ratePerHour": 10,
+    "icon": "🏍️"
+  },
+  "car": {
+    "label": "Car",
+    "ratePerHour": 30,
+    "icon": "🚗"
+  },
+  "suv": {
+    "label": "SUV",
+    "ratePerHour": 40,
+    "icon": "🚙"
+  }
+}

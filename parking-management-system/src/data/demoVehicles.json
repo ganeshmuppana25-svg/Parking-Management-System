@@ -1,0 +1,7 @@
+[
+  { "vehicleNumber": "MH12AB1234", "type": "car", "ownerName": "Rahul Sharma" },
+  { "vehicleNumber": "DL01CD5678", "type": "bike", "ownerName": "Priya Patel" },
+  { "vehicleNumber": "KA05EF9012", "type": "suv", "ownerName": "Amit Kumar" },
+  { "vehicleNumber": "TN09GH3456", "type": "car", "ownerName": "Sneha Reddy" },
+  { "vehicleNumber": "GJ06IJ7890", "type": "bike", "ownerName": "Vikram Singh" }
+]
